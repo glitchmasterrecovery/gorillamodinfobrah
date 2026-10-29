@@ -1,0 +1,35 @@
+
+[
+  {
+    "name": "MonoSandbox",
+    "author": "Monosphere",
+    "version": "1.2.1",
+    "group": "Gameplay",
+    "download_url": "https://github.com/Monosphere/Mono-Sandbox-Mod/releases/tag/V1.2.1/MonoSandbox.dll",
+    "install_location": "BepInEx/plugins",
+    "git_path": "https://github.com/Monosphere/Mono-Sandbox-Mod",
+    "dependencies": []
+  },
+  {
+    "name": "Example Library",
+    "author": "AnotherAuthor",
+    "version": "2.1.0",
+    "group": "Libraries",
+    "download_url": "https://github.com/AnotherAuthor/ExampleLibrary/releases/download/v2.1.0/ExampleLibrary.dll",
+    "install_location": "BepInEx/plugins",
+    "git_path": "https://github.com/AnotherAuthor/ExampleLibrary",
+    "dependencies": []
+  },
+  {
+    "name": "Example Dependent Mod",
+    "author": "YourName",
+    "version": "1.2.0",
+    "group": "Gameplay",
+    "download_url": "https://github.com/YourName/ExampleDependentMod/releases/download/v1.2.0/ExampleDependentMod.dll",
+    "install_location": "BepInEx/plugins",
+    "git_path": "https://github.com/YourName/ExampleDependentMod",
+    "dependencies": [
+      "Example Library"
+    ]
+  }
+]
