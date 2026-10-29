@@ -11,13 +11,13 @@
     "dependencies": []
   },
   {
-    "name": "Example Library",
-    "author": "AnotherAuthor",
-    "version": "2.1.0",
+    "name": "Unity Explorer",
+    "author": "UnityExplorer",
+    "version": "1.0.0",
     "group": "Libraries",
-    "download_url": "https://github.com/AnotherAuthor/ExampleLibrary/releases/download/v2.1.0/ExampleLibrary.dll",
+    "download_url": "https://github.com/glitchmasterrecovery/gorillamodinfobrah/raw/refs/heads/main/UnityExplorer.BIE5.Mono.dll",
     "install_location": "BepInEx/plugins",
-    "git_path": "https://github.com/AnotherAuthor/ExampleLibrary",
+    "git_path": "https://github.com/glitchmasterrecovery/gorillamodinfobrah/",
     "dependencies": []
   },
   {
