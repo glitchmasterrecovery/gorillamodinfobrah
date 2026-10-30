@@ -5,7 +5,7 @@
     "author": "Monosphere",
     "version": "1.2.1",
     "group": "Gameplay",
-    "download_url": "https://github.com/Monosphere/Mono-Sandbox-Mod/releases/tag/V1.2.1/MonoSandbox.dll",
+    "download_url": "https://github.com/Monosphere/Mono-Sandbox-Mod/releases/download/V1.2.1/MonoSandbox.dll",
     "install_location": "BepInEx/plugins",
     "git_path": "https://github.com/Monosphere/Mono-Sandbox-Mod",
     "dependencies": []
@@ -25,7 +25,7 @@
     "author": "Auros",
     "version": "1.0.1",
     "group": "Libraries",
-    "download_url": "https://github.com/Auros/Bepinject/releases/tag/1.0.1/Bepinject-Auros.zip",
+    "download_url": "https://github.com/Auros/Bepinject/releases/download/1.0.1/Bepinject-Auros.zip",
     "install_location": "BepInEx/plugins",
     "git_path": "https://github.com/auros/Bepinject/",
     "dependencies": []
@@ -35,7 +35,7 @@
     "author": "Auros",
     "version": "1.0.1",
     "group": "Libraries",
-    "download_url": "https://github.com/Auros/Bepinject/releases/tag/1.0.1/Extenject.zip",
+    "download_url": "https://github.com/Auros/Bepinject/releases/download/1.0.1/Extenject.zip",
     "install_location": "BepInEx/plugins",
     "git_path": "https://github.com/auros/Bepinject/",
     "dependencies": []
