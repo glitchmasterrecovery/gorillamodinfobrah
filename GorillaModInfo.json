@@ -21,7 +21,7 @@
     "dependencies": []
   },
   {
-    "name": "BepInject (make sure to have this)",
+    "name": "BepInject",
     "author": "Auros",
     "version": "1.0.1",
     "group": "Libraries",
@@ -31,7 +31,7 @@
     "dependencies": []
   },
   {
-    "name": "Extenject (make sure to have this)",
+    "name": "Extenject",
     "author": "Auros",
     "version": "1.0.1",
     "group": "Libraries",
