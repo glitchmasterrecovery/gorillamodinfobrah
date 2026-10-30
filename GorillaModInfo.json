@@ -21,15 +21,13 @@
     "dependencies": []
   },
   {
-    "name": "Example Dependent Mod",
-    "author": "YourName",
-    "version": "1.2.0",
+    "name": "Beach Servers",
+    "author": "BEACHM0DZ",
+    "version": "1.0.0",
     "group": "Gameplay",
-    "download_url": "https://github.com/YourName/ExampleDependentMod/releases/download/v1.2.0/ExampleDependentMod.dll",
+    "download_url": "https://github.com/glitchmasterrecovery/gorillamodinfobrah/raw/refs/heads/main/BeachServers.dll",
     "install_location": "BepInEx/plugins",
-    "git_path": "https://github.com/YourName/ExampleDependentMod",
-    "dependencies": [
-      "Example Library"
-    ]
+    "git_path": "https://github.com/glitchmasterrecovery/gorillamodinfobrah",
+    "dependencies": []
   }
 ]
