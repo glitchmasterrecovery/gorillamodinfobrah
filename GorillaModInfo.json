@@ -21,6 +21,26 @@
     "dependencies": []
   },
   {
+    "name": "BepInject (make sure to have this)",
+    "author": "Auros",
+    "version": "1.0.1",
+    "group": "Libraries",
+    "download_url": "https://github.com/Auros/Bepinject/releases/tag/1.0.1/Bepinject-Auros.zip",
+    "install_location": "BepInEx/plugins",
+    "git_path": "https://github.com/auros/Bepinject/",
+    "dependencies": []
+  },
+  {
+    "name": "Extenject (make sure to have this)",
+    "author": "Auros",
+    "version": "1.0.1",
+    "group": "Libraries",
+    "download_url": "https://github.com/Auros/Bepinject/releases/tag/1.0.1/Extenject.zip",
+    "install_location": "BepInEx/plugins",
+    "git_path": "https://github.com/auros/Bepinject/",
+    "dependencies": []
+  },
+  {
     "name": "Beach Servers",
     "author": "BEACHM0DZ",
     "version": "1.0.0",
